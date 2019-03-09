@@ -1,0 +1,21 @@
+Menu System
+
+
+- Menu [Using Enum]
+	"Play Game!" - Takes player to game [Game processing]
+
+	"High Scores" - Takes player to a background with 5 highest scores printed in center [Highscore Processing]
+
+	"Exit" - Exits... [Calls close game]
+
+- Other states
+	"Game over" - Takes player to Gameover screen and displays score [End game Processing]
+
+
+- Make a sprite sheet containing background and each button being highlighted
+
+		Switch between sprite sheet on appropiate key press [Check enum value, move appropiatly]
+
+		Keep track of "selected" button [Use Enums and set on keypress]
+
+		Do appropiate action when "Enter" is pressed [Check enum and do appropiate code]

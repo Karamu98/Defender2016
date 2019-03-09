@@ -1,0 +1,8 @@
+High Score System
+
+Reads binary file and imports scores to varibles on launch [Read file and set varible array]
+
+When player died/quits, check score and add to score board if needed [Is greater that.. if not... is greater than...]
+
+Saves a binary file on exit [Reads varibles array and updates/creates binary file]
+

@@ -1,0 +1,32 @@
+Needs access to enemy sprites x position and bool value [Make inside Enemy class]
+
+Will run every frame
+
+
+Psudo:
+
+	Check if sprite is on screen both sides (70 pixles)
+
+			IS ON SCREEN:
+
+				Check if it's being drawn
+
+					IS BEING DRAWN:
+
+						Do nothing
+
+					ISN'T BEING DRAWN:
+
+						Draw it and notify
+
+			ISN'T ON SCREEN:
+
+				Check if it's being drawn
+
+					IS BEING DRAWN:
+
+						Stop drawing and notify
+
+					ISN'T BEING DRAWN:
+
+						Do nothing

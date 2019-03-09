@@ -1,0 +1,17 @@
+===== To Do List =====
+
+1. Optimise rendering of enemy sprites [Only draw when on screen] *DONE*
+
+2. Game State system [Handles code processing] *DONE*
+
+3. High score system [Given points on killing enemies, be able to access top 5 best scores, saves as a binary file]
+
+4. Animate sprites [Add jets at the back of player ship when moving, flash when player shoots, explosion on death]
+
+5. Enemy AI [To move around randomly, shoot at the player randomly between an interval]
+
+6. Improve map [Random gen terrain, stop the player if the reach the edge]
+
+7. Add player systems [Reduce player lives on death] *Done*
+
+8. UI System [Display Score and Player lives] *Broken*
